@@ -11,8 +11,11 @@ Four algorithms have been implemented in this base paper, and they are:
 2. Support vector regression(SVR) 
 3. LASSO regression 
 4. Exponential Smoothing(ES)
-   
-**Dataset**
+
+   **Dataset**
+
+
+
 ![image](https://github.com/user-attachments/assets/8ca47434-3363-422b-8279-34b43f90d0df)
 
 ![image](https://github.com/user-attachments/assets/9c1b4bd5-8a8b-4e5c-94b9-45cd97c367b0)
@@ -23,6 +26,8 @@ Four algorithms have been implemented in this base paper, and they are:
 3 types of dataset used in this project Confirmed cases, death cases and recovered cases. These are time series dataset which help us to predict the confirmed cases , death cases and recovered cases in future 
 
 **Performance**
+
+
 
 ![image](https://github.com/user-attachments/assets/48ad9939-9fd8-45c2-9729-1dde3268d7f9)
 
